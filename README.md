@@ -98,15 +98,9 @@ Para a avaliação final, separamos os últimos **365 dias** do dataset como con
 Certifique-se de ter Python 3.8+ instalado.
 
 1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/Leo-BM/peyton-manning-forecasting.git](https://github.com/Leo-BM/peyton-manning-forecasting.git)
-    cd peyton-manning-timeseries
-    ```
 
 2.  **Instale as dependências:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn plotly statsmodels pmdarima prophet neuralprophet
-    ```
+
     *(Nota: NeuralProphet pode exigir downgrade do numpy dependendo da versão. Use `numpy<2.0` se necessário ou aplique o patch contido no notebook).*
 
 3.  **Execute o Notebook:**
