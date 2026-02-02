@@ -99,7 +99,7 @@ Certifique-se de ter Python 3.8+ instalado.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/peyton-manning-timeseries.git](https://github.com/seu-usuario/peyton-manning-timeseries.git)
+    git clone [https://github.com/Leo-BM/peyton-manning-forecasting.git](https://github.com/Leo-BM/peyton-manning-forecasting.git)
     cd peyton-manning-timeseries
     ```
 
